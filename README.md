@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya-2022
+- 👋 Hi, I’m Aditya Chaurasia
 - 👀 I’m interested in finding solutions by implementing data science
 - 🌱 I’m currently learning data science & AI
 - 💞️ I’m looking to collaborate on topic related to solution by elementing data science.
